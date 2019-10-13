@@ -1,0 +1,13 @@
+Package: dhReg
+Type: Package
+Title: Dynamic Harmonic Regression
+Version: 0.1.0
+Author: Pranay Gaikwad
+Maintainer: Pranay Gaikwad <pranay3113@gmail.com>
+Description: Building and forecasting time series data with multiple seasonality using Dynamic Harmonic Regression.
+License: GPL-3
+Encoding: UTF-8
+LazyData: false
+RoxygenNote: 6.1.1
+Depends: forecast, future.apply, stats, future
+URL: https://otexts.com/fpp2/dhr.html
